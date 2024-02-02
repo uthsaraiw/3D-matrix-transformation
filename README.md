@@ -1,5 +1,5 @@
 # 3D-matrix-transformation
-easy way to translate, rotate, scale 3D matrices using python\n
+easy way to translate, rotate, scale 3D matrices using python
 Modules used:
 1. numpy
 2. scipy (to be used for rotation in any direction part)
